@@ -15,4 +15,8 @@ The model is performed in two steps:
 
 - Tutorial.ipynb: exemplifies the process of implementing generative model.
 
-2. src: python files used to produce our result. 
+2. src: python files used to produce our result.
+
+- Model.py includes the implementation of generative model
+- User.py includes the node class that can perform rewiring/changing moves during network evolution process
+- Statistics.py and summary_stats.py include the classification of community structures.

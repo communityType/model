@@ -1,6 +1,6 @@
 # Generative model of non-assortative communities in networks
 
-This code accompanies the paper  <i>"A generative model for community types in directed networks" </i>  by Cathy Liu, [Tristram J. Alexander](https://www.sydney.edu.au/science/about/our-people/academic-staff/tristram-alexander.html), and [Eduardo G. Altmann](https://www.maths.usyd.edu.au/u/ega/), [PNAS Nexus (2023)](https://doi.org/10.1093/pnasnexus/pgad364). 
+This code accompanies the paper  <i>"A generative model for community types in directed networks" </i>  by Cathy Liu, [Tristram J. Alexander](https://www.sydney.edu.au/science/about/our-people/academic-staff/tristram-alexander.html), and [Eduardo G. Altmann](https://www.maths.usyd.edu.au/u/ega/), [arXiv:2405.14168](https://arxiv.org/abs/2405.14168) (2024). 
 
 The Tutorial.ipynb notebook shows how to use the model to reproduce community structures: Assortative, Core-Periphery, Disassortative and Source-Basin based on the classification we proposed in last paper <i> "Non-assortative relationships between groups of nodes are common in complex networks"</i>.
 
